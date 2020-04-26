@@ -10,6 +10,7 @@ import DayListItem from 'components/DayListItem';
 import DayList from 'components/DayList';
 import InterviewerList from 'components/InterviewerList';
 import InterviewerListItem from 'components/InterviewerListItem';
+import Appointment from 'components/Appointment';
 
 storiesOf('Button', module)
   .addParameters({
